@@ -1,0 +1,85 @@
+html, body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	 background-image: url("http://wallpapercave.com/wp/qb13up6.jpg"); 
+	background-size: cover;
+
+	text-align: center;
+	
+}
+
+
+	
+
+
+
+.imgs {
+	text-align: center;
+}
+
+a:active{
+	top: 2px;
+}
+
+h1 {
+	margin:10px;
+	color: white;
+}
+
+.nav {
+	margin: 0px;
+	color: white;
+	display: flex;
+		font-size: 20px;
+	background-color: rgba(128, 197, 252, .9); 
+	max-width: 100%;
+  min-width: 3000px;
+  min-height: 100px;
+ 
+  
+}
+
+.nav ul{
+	display: inline;
+	
+}
+
+.nav li{
+	display: inline;
+	padding-left: 20px;
+	padding-top: 30px;
+	font-size: 25px;
+}
+
+.nav h2{
+	padding-right: 755px;
+	display: inline;
+	font-size: 30px;
+}
+
+a{
+	padding-top: 25px;
+	color: white;
+	text-decoration-line: none;
+	
+
+}
+
+a:hover{
+
+	text-decoration-line: underline;
+}
+
+.we2 {
+	text-decoration-line: underline;
+}
+
+.we{
+	text-decoration-line: none;
+}
+
+.w:hover {
+
+	text-decoration-line: none;
+
+
+}
