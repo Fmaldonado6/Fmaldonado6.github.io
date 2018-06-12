@@ -1,39 +1,245 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="main.css">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Falcon 20</title>
+<meta name="viewport" content="initial-scale=0.5, maximum-scale=0.5, minimum-scale=0.5,user-scalable=0">
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="full-screen" content="yes"/>
+  <meta name="screen-orientation" content="portrait"/>
+	<title>menu</title>
+
+	<script type="text/javascript" src="game.js"></script>
+
 </head>
-<body>
-<h1>Falcon 20</h1>
+<style type="text/css">
+	
+	html,body{
+
+
+		touch-action: relative;
+
+		font-family: pixel_digivolveregular;
+
+		margin: 0px;
+	
+		
+		overflow: hidden;
+	}
+
+	#background-image{
+
+		width: 100%;
+  top: 0;
+  left: 0;
+  bottom: -80px;
+  position: fixed;
+  z-index: -1;
+  background: url("fondo.png") no-repeat center center;
+  background-size: cover;
+  transform: translate3d(0,0,0);
+
+
+	}
+
+
+	#h1{
+		position: fixed;
+		
+		color: white;
+		
+    	top: 50%;
+    	
+    	left: 50%;
+    	
+    	transform: translate(-50%, -50%);
+	}
+
+
+
 	
 
-<div class="nav">
-	<nav>
-	
-	<ul>
 
-		<a href="2.html"><li>Información general</li></a>
-		<a href="fallas.html"><li>Fallas del avión</li></a>
+	a{
+
+		color: white;
+	
+		text-decoration: none;
+
+	}
+
+	a:active{
+
+		color: white;
+		text-decoration: none;
+	}
+
+	#score{
+
+		font-size: 10vw;
+
+		position: fixed;
+		
+		color: white;
+		
+    	top: 50%;
+    	
+    	left: 50%;
+    	
+    	transform: translate(-50%, -50%);
+	}
+
+	#pausa{
+
+	position: fixed;
+    top: 10px;
+    right: 10px;
+	}
+
+
+	#credits{
+		 position:fixed;
+   left:10px;
+   bottom:0px;
+   
+   width:100%;
+
 		
 
-	</ul>
-	</nav>
-</div>
+		
+	}
+
+	#version{
+
+		color: white;
+
+		position:fixed;
+   right:10px;
+   bottom:0px;
+   
+   
 
 
-<div class="p">
+	}
+
+	#imagen{
+
+		position: fixed;
+		
+		top: 50%;
+    	
+    	left: 50%;
+    	
+    	transform: translate(-50%, -50%);
+
+	}
+	
+	#menu_pausa{
+		position: fixed;
+		
+		top: 50%;
+    	
+    	left: 50%;
+    	
+    	transform: translate(-50%, -50%);
+	}
+
+	#title{
+
+		position: fixed;
+		top: 70px;
+		color: white;
+
+		text-align: center;
+
+		font-size: 17vw;
+
+		font-style: oblique;
+
+		left: 50%;
+    	
+    	transform: translate(-50%, -50%);
+	}
+
+	#local{
+
+		font-size: 5vw;
+
+		position: fixed;
+		
+		color: white;
+		
+    	margin-top: 20px;
+
+    	margin-left: 25px;
+
+
+	}
+
+	#high{
+
+		font-size: 2vw;
+		position: fixed;
+		color: white;
+		margin-left: 10px;
+
+	}
+
+	#canvas{
+		position: fixed;
+	}
+
+	@font-face {
+    font-family: 'pixel_digivolveregular';
+    src: url('pixel_digivolve-webfont.woff2') format('woff2'),
+         url('pixel_digivolve-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}	
+	</style>
+		
+<body>
+
+	<div id="background-image"></div>
+	
+	<a href="image_credits.html" id="credits">Credits</a>
+
+	<h6 id="version">V 1.2</h6>
+
+	<h1 id="high"></h1>
+
+	<h1 id="local"></h1>
+
+
+	
+	<canvas id="canvas"></canvas>
+
+	<h1 id="title">REBOUND</h1>
+<a href="#" onclick="ocultar();" ><h1 id="h1">PLAY</h1></a>
+
+	<img src="x2.png" width="0px" height="0px" id="x2">
+
+	<img src="velocidad.png" width="0px" height="0px" id="velocidad">
+
+	<img src="lentitud.png" width="0px" height="0px" id="lentitud">
+
+	<img src="2balls.png" width="0px" height="0px" id="balls">
+
+	<img src="portal.png" width="0px" height="0px" id="portal">
+
+	<img src="portal_i.png" width="0px" height="0px" id="portal_i">
+
+	<img src="pausa.png" width="0px" height="0px" id="imagen">
+
+	<img src="boton_pausa.png" id="pausa" width="0" height="0">
+
+	<img src="menu.png" width="0px" height="0px" id="menu_pausa">
+
+	<h1 id="score"></h1>
 
 
 
-		<p>Falcon 20C fabricado por Dassault entre 1967 y 1988. La cabina mide 24,4 pies de largo por 6,1 pies de ancho por 5,7 pies de alto lo que le da un volumen total de la cabina de 700 pies cúbicos, con una capacidad de 8 pasajeros, máximo 10. El Falcon 20C tiene una velocidad máxima de 552mph. Nombres comunes y abreviaturas: DA-20-C, DA-20C, 20c, Falcon Jet.</p>
 
-</div >
+</body>
 
-<h4 class="we">CIIIA</h4>
-
-	</body>
 
 </html>
