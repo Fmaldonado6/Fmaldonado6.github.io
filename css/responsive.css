@@ -1,0 +1,43 @@
+@media only screen and (max-width: 993px){
+
+    h2{
+        font-size: 2.5rem !important;
+    }
+
+    h3{
+        font-size: 1.75rem;
+    }
+
+    .darken-5{
+        background-color: #000000ea;
+
+    }
+
+    .paragraph {
+        padding: 15px;
+        text-align: justify;
+        font-size: 1.2rem;
+        letter-spacing: 1.15px;
+    }
+
+    .flex .card {
+   
+        width: 100%;
+    }
+
+    .slider{
+        height: 300px !important;
+    }
+    
+    .slides {
+        height: 300px !important;
+    }
+    .slider img {
+        background-size: contain !important;
+    }
+
+    .sidenav-trigger{
+        margin: 10px;
+        color: white;
+    }
+}
