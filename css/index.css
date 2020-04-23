@@ -325,3 +325,31 @@ h4 {
 .indicators .active {
     background-color: #ef5350 !important;
 }
+
+.loading{
+    position: fixed;
+    width: 100%;
+    background-color: #000000;
+    height: 100%;
+    z-index: 1000;
+}
+
+.preloader-wrapper{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
+
+.loadedPage{
+    animation: loadedPage 1s forwards;
+}
+
+@keyframes loadedPage{
+    0%{
+        opacity: 1;
+    }
+
+    100%{
+        opacity: 0;
+    }
+}
