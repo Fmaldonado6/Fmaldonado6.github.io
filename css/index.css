@@ -78,10 +78,11 @@ html {
     position: fixed;
     width: 100%;
     height: 100%;
-    background-image: url("/img/background/bgImg.jpg");
+    background-position: center;
+    background-image: url("/img/background/bgImg.png");
     background-size: cover;
     background-repeat: no-repeat;
-    filter: blur(1px) brightness(20%);
+    filter: blur(.5px) brightness(30%) grayscale(.3);
     z-index: -1;
 }
 
@@ -178,8 +179,15 @@ html {
     box-shadow: none;
     -webkit-box-shadow: none;
     border-radius: 10px;
-
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     border: none;
+}
+
+.collapsible li{
+    width: calc(50% - 20px);
+    margin: 10px;
 }
 
 .darken-5 {
@@ -206,7 +214,7 @@ html {
 
 .flexC a {
     position: relative;
-    width: 50%;
+    width: 80%;
     left: 50%;
     margin-bottom: 10px;
     transform: translateX(-50%);
@@ -356,5 +364,17 @@ h4 {
 
     100% {
         opacity: 0;
+    }
+}
+
+@media(max-width:900px){
+    .collapsible{
+        flex-direction: column;
+    }
+
+    .collapsible li{
+        width: 100%;
+        margin: 0px;
+        margin-bottom: 5px;
     }
 }
