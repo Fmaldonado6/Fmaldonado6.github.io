@@ -1561,13 +1561,6 @@
   "image_url": "https://cdn.myanimelist.net/images/characters/13/299671.jpg?s=6d934890c9359860a5f6b9ab42256581"
 },{
   "_id": {
-    "$oid": "6035869009020b3df0dc6f73"
-  },
-  "mal_id": 36976,
-  "title": "Murasakibara, Atsushi",
-  "image_url": "https://cdn.myanimelist.net/images/characters/14/246755.jpg?s=bbc26cd3804fad9c9934411fefc6cf52"
-},{
-  "_id": {
     "$oid": "6035869009020b3df0dc6f74"
   },
   "mal_id": 24502,
