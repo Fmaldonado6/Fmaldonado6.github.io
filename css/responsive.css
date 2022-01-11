@@ -25,16 +25,7 @@
         width: 100%;
     }
 
-    .slider{
-        height: 300px !important;
-    }
-    
-    .slides {
-        height: 300px !important;
-    }
-    .slider img {
-        background-size: contain !important;
-    }
+
 
     .sidenav-trigger{
         margin: 10px;
