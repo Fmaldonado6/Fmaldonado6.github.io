@@ -1353,28 +1353,6 @@
   },
   {
     "_id": {
-      "$oid": "6035603c09020b3df0dc6eb7"
-    },
-    "mal_id": 119413,
-    "title": "Jabami, Yumeko",
-    "image_url": "https://cdn.myanimelist.net/images/characters/15/322946.jpg?s=646fef1d50bfdc13b7dd309e46e58ec2",
-    "anime": {
-      "mal_id": 34933,
-      "name": "Kakegurui",
-      "url": "https://myanimelist.net/anime/34933/Kakegurui",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/86578.jpg?s=e1ced81c5fb7194ae8cb9cdcdfb2408c",
-      "role": "Main"
-    },
-    "manga": {
-      "mal_id": 73603,
-      "name": "Kakegurui",
-      "url": "https://myanimelist.net/manga/73603/Kakegurui",
-      "image_url": "https://cdn.myanimelist.net/images/manga/1/142175.jpg?s=303598b828443b1b591cfd86e6fcf26c",
-      "role": "Main"
-    }
-  },
-  {
-    "_id": {
       "$oid": "6035604209020b3df0dc6eb8"
     },
     "mal_id": 52723,
@@ -4426,28 +4404,6 @@
   },
   {
     "_id": {
-      "$oid": "6035868509020b3df0dc6f5d"
-    },
-    "mal_id": 11919,
-    "title": "Crona",
-    "image_url": "https://cdn.myanimelist.net/images/characters/10/37601.jpg?s=778d283aeaa6a386e8de70682a09b70b",
-    "anime": {
-      "mal_id": 3588,
-      "name": "Soul Eater",
-      "url": "https://myanimelist.net/anime/3588/Soul_Eater",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/7804.jpg?s=0ac224a2b68be69e96cb8cec2a332ca1",
-      "role": "Supporting"
-    },
-    "manga": {
-      "mal_id": 908,
-      "name": "Soul Eater",
-      "url": "https://myanimelist.net/manga/908/Soul_Eater",
-      "image_url": "https://cdn.myanimelist.net/images/manga/1/159808.jpg?s=69961dc3745b69c0e71f1f79545adaa4",
-      "role": "Supporting"
-    }
-  },
-  {
-    "_id": {
       "$oid": "6035868509020b3df0dc6f5f"
     },
     "mal_id": 46013,
@@ -4664,28 +4620,6 @@
       "url": "https://myanimelist.net/manga/14893/Monogatari_Series__First_Season",
       "image_url": "https://cdn.myanimelist.net/images/manga/5/173535.jpg?s=fcf58b65df2cc1fbf5f90c1e41381899",
       "role": "Supporting"
-    }
-  },
-  {
-    "_id": {
-      "$oid": "6035868f09020b3df0dc6f72"
-    },
-    "mal_id": 127643,
-    "title": "Hishiro, Chizuru",
-    "image_url": "https://cdn.myanimelist.net/images/characters/13/299671.jpg?s=6d934890c9359860a5f6b9ab42256581",
-    "anime": {
-      "mal_id": 30015,
-      "name": "ReLIFE",
-      "url": "https://myanimelist.net/anime/30015/ReLIFE",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/82149.jpg?s=5fb44fd6488c61b0bef8088eda59065a",
-      "role": "Main"
-    },
-    "manga": {
-      "mal_id": 78523,
-      "name": "ReLIFE",
-      "url": "https://myanimelist.net/manga/78523/ReLIFE",
-      "image_url": "https://cdn.myanimelist.net/images/manga/2/171573.jpg?s=b3d0b7fa13e3720d72745b06b03e3987",
-      "role": "Main"
     }
   },
   {
@@ -6635,28 +6569,6 @@
   },
   {
     "_id": {
-      "$oid": "6035c27d09020b3df0dc6ff8"
-    },
-    "mal_id": 160388,
-    "title": "Takarada, Rikka",
-    "image_url": "https://cdn.myanimelist.net/images/characters/4/367818.jpg?s=5898e08d1108b5ab0e0592e7ac88b8e1",
-    "anime": {
-      "mal_id": 35847,
-      "name": "SSSS.Gridman",
-      "url": "https://myanimelist.net/anime/35847/SSSSGridman",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1973/95616.jpg?s=a4199dd3638df4a14456e57649f57d31",
-      "role": "Main"
-    },
-    "manga": {
-      "mal_id": 123613,
-      "name": "SSSS.Gridman",
-      "url": "https://myanimelist.net/manga/123613/SSSSGridman",
-      "image_url": "https://cdn.myanimelist.net/images/manga/3/236197.jpg?s=0f1de15214ed695fda8c85067b88787d",
-      "role": "Main"
-    }
-  },
-  {
-    "_id": {
       "$oid": "6035c28b09020b3df0dc6ff9"
     },
     "mal_id": 253,
@@ -7673,28 +7585,6 @@
       "name": "Gabriel DropOut",
       "url": "https://myanimelist.net/manga/96526/Gabriel_DropOut",
       "image_url": "https://cdn.myanimelist.net/images/manga/3/188786.jpg?s=aecc7cbf3cc4efe72e6d089d2296ea8a",
-      "role": "Main"
-    }
-  },
-  {
-    "_id": {
-      "$oid": "6035c60b09020b3df0dc702b"
-    },
-    "mal_id": 135798,
-    "title": "Kotatsu, Tamaki",
-    "image_url": "https://cdn.myanimelist.net/images/characters/16/413733.jpg?s=c2eb834c0963af3f18b80d2df6f2e5f9",
-    "anime": {
-      "mal_id": 38671,
-      "name": "Enen no Shouboutai",
-      "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg?s=42f0fae2f560bd1d625b957b80d14953",
-      "role": "Main"
-    },
-    "manga": {
-      "mal_id": 91037,
-      "name": "Enen no Shouboutai",
-      "url": "https://myanimelist.net/manga/91037/Enen_no_Shouboutai",
-      "image_url": "https://cdn.myanimelist.net/images/manga/3/178996.jpg?s=b466b640ec3a0a970e52c94bc6eebbcf",
       "role": "Main"
     }
   },
@@ -10114,28 +10004,6 @@
   },
   {
     "_id": {
-      "$oid": "6037db09154a190920fbc589"
-    },
-    "mal_id": 81931,
-    "title": "Fubuki",
-    "image_url": "https://cdn.myanimelist.net/images/characters/16/285584.jpg?s=2860eca48aafcb5f9dbaa1b509f1e0f8",
-    "anime": {
-      "mal_id": 30276,
-      "name": "One Punch Man",
-      "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg?s=9d4581fe121949133582d2481369005b",
-      "role": "Supporting"
-    },
-    "manga": {
-      "mal_id": 44347,
-      "name": "One Punch-Man",
-      "url": "https://myanimelist.net/manga/44347/One_Punch-Man",
-      "image_url": "https://cdn.myanimelist.net/images/manga/3/80661.jpg?s=8b9b74dfb3e826f868f16b355f671d5a",
-      "role": "Supporting"
-    }
-  },
-  {
-    "_id": {
       "$oid": "6037db0c154a190920fbc58a"
     },
     "mal_id": 2755,
@@ -12118,28 +11986,6 @@
   },
   {
     "_id": {
-      "$oid": "6037dc9f154a190920fbc5e6"
-    },
-    "mal_id": 135406,
-    "title": "Kurosawa, Dia",
-    "image_url": "https://cdn.myanimelist.net/images/characters/10/346500.jpg?s=55f17e8b06d111b0cd3ed7284763bd20",
-    "anime": {
-      "mal_id": 31780,
-      "name": "Kimi no Kokoro wa Kagayaiteru kai?",
-      "url": "https://myanimelist.net/anime/31780/Kimi_no_Kokoro_wa_Kagayaiteru_kai",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/76534.jpg?s=3f06ac36154cefdc8b824da03da078ff",
-      "role": "Main"
-    },
-    "manga": {
-      "mal_id": 99529,
-      "name": "Love Live! Sunshine!!",
-      "url": "https://myanimelist.net/manga/99529/Love_Live_Sunshine",
-      "image_url": "https://cdn.myanimelist.net/images/manga/2/183983.jpg?s=348224d439d95b7de6be105890af0ee2",
-      "role": "Main"
-    }
-  },
-  {
-    "_id": {
       "$oid": "6037dca3154a190920fbc5e7"
     },
     "mal_id": 123343,
@@ -12906,28 +12752,6 @@
       "name": "Ore Monogatari!!",
       "url": "https://myanimelist.net/manga/36933/Ore_Monogatari",
       "image_url": "https://cdn.myanimelist.net/images/manga/3/180382.jpg?s=31218c1a4d7d94d294fd0089f0a04f4b",
-      "role": "Main"
-    }
-  },
-  {
-    "_id": {
-      "$oid": "6037dd4a154a190920fbc60b"
-    },
-    "mal_id": 5458,
-    "title": "Kirisame, Marisa",
-    "image_url": "https://cdn.myanimelist.net/images/characters/3/49650.jpg?s=62b5473d6d60f2984aa6d11003129b9c",
-    "anime": {
-      "mal_id": 9874,
-      "name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
-      "url": "https://myanimelist.net/anime/9874/Touhou_Niji_Sousaku_Doujin_Anime__Musou_Kakyou",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/27302.jpg?s=205b078f2fc4c64f2e6044426b9b212f",
-      "role": "Supporting"
-    },
-    "manga": {
-      "mal_id": 175,
-      "name": "Touhou Sangetsusei: Eastern and Little Nature Deity",
-      "url": "https://myanimelist.net/manga/175/Touhou_Sangetsusei__Eastern_and_Little_Nature_Deity",
-      "image_url": "https://cdn.myanimelist.net/images/manga/4/6687.jpg?s=986caf0496a2f72833efcdade6d49e9b",
       "role": "Main"
     }
   },
@@ -15212,5 +15036,1295 @@
       "image_url": "https://cdn.myanimelist.net/images/manga/2/201572.jpg?s=991ba3a435630e45253fd611d8887dcf",
       "role": "Main"
     }
+  },
+  {
+    "_id": {
+      "$oid": "62cbd594b76ed811ece8a27c"
+    },
+    "mal_id": 166439,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/457312.jpg?s=fcd6661ff676a8544d9c5e283d61d6bb",
+    "anime": [
+      {
+        "mal_id": 48736,
+        "name": "Sono Bisque Doll wa Koi wo Suru",
+        "url": "https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 112268,
+        "name": "Sono Bisque Doll wa Koi wo Suru",
+        "url": "https://myanimelist.net/manga/112268/Sono_Bisque_Doll_wa_Koi_wo_Suru"
+      }
+    ],
+    "title": "Kitagawa, Marin"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd599b76ed811ece8a27d"
+    },
+    "mal_id": 120025,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/319400.jpg?s=30fa4f38d22e720c7b2221fbccb24c23",
+    "anime": [
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 31096,
+        "name": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "url": "https://myanimelist.net/anime/31096/Hibike_Euphonium__Suisougaku-bu_no_Nichijou"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31665,
+        "name": "Hibike! Euphonium: Kakedasu Monaka",
+        "url": "https://myanimelist.net/anime/31665/Hibike_Euphonium__Kakedasu_Monaka"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 96125,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+        "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+      },
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Tanaka, Asuka"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd5b0b76ed811ece8a27e"
+    },
+    "mal_id": 170329,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/457934.jpg?s=95b00e4e699e5120bad0e4d20a148aa8",
+    "anime": [
+      {
+        "mal_id": 50265,
+        "name": "Spy x Family",
+        "url": "https://myanimelist.net/anime/50265/Spy_x_Family"
+      },
+      {
+        "mal_id": 50602,
+        "name": "Spy x Family Part 2",
+        "url": "https://myanimelist.net/anime/50602/Spy_x_Family_Part_2"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 119161,
+        "name": "Spy x Family",
+        "url": "https://myanimelist.net/manga/119161/Spy_x_Family"
+      }
+    ],
+    "title": "Forger, Yor"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd5bdb76ed811ece8a27f"
+    },
+    "mal_id": 204620,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/461386.jpg?s=268d6f3855821fa3447aad904de0930a",
+    "anime": [
+      {
+        "mal_id": 50709,
+        "name": "Lycoris Recoil",
+        "url": "https://myanimelist.net/anime/50709/Lycoris_Recoil"
+      }
+    ],
+    "manga": [],
+    "title": "Inoue, Takina"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd5d5b76ed811ece8a280"
+    },
+    "mal_id": 204621,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/461385.jpg?s=48f240dc26c39a25a2278d3ba19b539c",
+    "anime": [
+      {
+        "mal_id": 50709,
+        "name": "Lycoris Recoil",
+        "url": "https://myanimelist.net/anime/50709/Lycoris_Recoil"
+      }
+    ],
+    "manga": [],
+    "title": "Nishikigi, Chisato"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd614b76ed811ece8a281"
+    },
+    "mal_id": 175560,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/454412.jpg?s=6a5775a1a09b91d8a9a3f0a0633f6d2f",
+    "anime": [
+      {
+        "mal_id": 48926,
+        "name": "Komi-san wa, Comyushou desu.",
+        "url": "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu"
+      },
+      {
+        "mal_id": 50631,
+        "name": "Komi-san wa, Comyushou desu. 2nd Season",
+        "url": "https://myanimelist.net/anime/50631/Komi-san_wa_Comyushou_desu_2nd_Season"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 99007,
+        "name": "Komi-san wa, Comyushou desu.",
+        "url": "https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu"
+      }
+    ],
+    "title": "Komi, Shuuko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd653b76ed811ece8a282"
+    },
+    "mal_id": 186042,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/452608.jpg?s=32f4c7d3d56dc757c7214710dab29256",
+    "anime": [
+      {
+        "mal_id": 43969,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 124940,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/manga/124940/Kanojo_mo_Kanojo"
+      }
+    ],
+    "title": "Minase, Nagisa"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd704b76ed811ece8a283"
+    },
+    "mal_id": 189351,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/427132.jpg?s=327f4e5b29e14c3bd50be2ce095ec650",
+    "anime": [
+      {
+        "mal_id": 43969,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 124940,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/manga/124940/Kanojo_mo_Kanojo"
+      }
+    ],
+    "title": "Kiryuu, Shino"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd729b76ed811ece8a284"
+    },
+    "mal_id": 186041,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/452607.jpg?s=fa2a4a4066659b7528a894ac8c7de813",
+    "anime": [
+      {
+        "mal_id": 43969,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 124940,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/manga/124940/Kanojo_mo_Kanojo"
+      }
+    ],
+    "title": "Saki, Saki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd794b76ed811ece8a285"
+    },
+    "mal_id": 186043,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/427072.jpg?s=4029f95fcee978560a1f0b9665d05306",
+    "anime": [
+      {
+        "mal_id": 43969,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 124940,
+        "name": "Kanojo mo Kanojo",
+        "url": "https://myanimelist.net/manga/124940/Kanojo_mo_Kanojo"
+      }
+    ],
+    "title": "Hoshizaki, Rika"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd7c5b76ed811ece8a286"
+    },
+    "mal_id": 5458,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/17696.jpg?s=f2db91617f2d18102a7ae0622b9939ea",
+    "anime": [
+      {
+        "mal_id": 30547,
+        "name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special",
+        "url": "https://myanimelist.net/anime/30547/Touhou_Niji_Sousaku_Doujin_Anime__Musou_Kakyou_Special"
+      },
+      {
+        "mal_id": 36686,
+        "name": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+        "url": "https://myanimelist.net/anime/36686/Hifuu_Katsudou_Kiroku__The_Sealed_Esoteric_History"
+      },
+      {
+        "mal_id": 9875,
+        "name": "Anime Tenchou x Touhou Project",
+        "url": "https://myanimelist.net/anime/9875/Anime_Tenchou_x_Touhou_Project"
+      },
+      {
+        "mal_id": 9874,
+        "name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+        "url": "https://myanimelist.net/anime/9874/Touhou_Niji_Sousaku_Doujin_Anime__Musou_Kakyou"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 44523,
+        "name": "Touhou Suzunaan: Forbidden Scrollery.",
+        "url": "https://myanimelist.net/manga/44523/Touhou_Suzunaan__Forbidden_Scrollery"
+      },
+      {
+        "mal_id": 96369,
+        "name": "Touhou Sangetsusei: Visionary Fairies in Shrine.",
+        "url": "https://myanimelist.net/manga/96369/Touhou_Sangetsusei__Visionary_Fairies_in_Shrine"
+      },
+      {
+        "mal_id": 122572,
+        "name": "Touhou Chireikiden: Hansoku Tantei Satori",
+        "url": "https://myanimelist.net/manga/122572/Touhou_Chireikiden__Hansoku_Tantei_Satori"
+      },
+      {
+        "mal_id": 123038,
+        "name": "Touhou Suichouka: Lotus Eater-tachi no Suisei",
+        "url": "https://myanimelist.net/manga/123038/Touhou_Suichouka__Lotus_Eater-tachi_no_Suisei"
+      },
+      {
+        "mal_id": 21054,
+        "name": "Touhou Ibara Kasen: Wild and Horned Hermit.",
+        "url": "https://myanimelist.net/manga/21054/Touhou_Ibara_Kasen__Wild_and_Horned_Hermit"
+      },
+      {
+        "mal_id": 14466,
+        "name": "Touhou Kourindou: Curiosities of Lotus Asia.",
+        "url": "https://myanimelist.net/manga/14466/Touhou_Kourindou__Curiosities_of_Lotus_Asia"
+      },
+      {
+        "mal_id": 3014,
+        "name": "Touhou Bougetsushou: Silent Sinner in Blue.",
+        "url": "https://myanimelist.net/manga/3014/Touhou_Bougetsushou__Silent_Sinner_in_Blue"
+      },
+      {
+        "mal_id": 5376,
+        "name": "Touhou Gumonshiki ~ Memorizable Gensokyo",
+        "url": "https://myanimelist.net/manga/5376/Touhou_Gumonshiki__Memorizable_Gensokyo"
+      },
+      {
+        "mal_id": 11929,
+        "name": "Touhou Sangetsusei: Strange and Bright Nature Deity",
+        "url": "https://myanimelist.net/manga/11929/Touhou_Sangetsusei__Strange_and_Bright_Nature_Deity"
+      },
+      {
+        "mal_id": 14439,
+        "name": "Touhou Sangetsusei: Oriental Sacred Place",
+        "url": "https://myanimelist.net/manga/14439/Touhou_Sangetsusei__Oriental_Sacred_Place"
+      },
+      {
+        "mal_id": 175,
+        "name": "Touhou Sangetsusei: Eastern and Little Nature Deity",
+        "url": "https://myanimelist.net/manga/175/Touhou_Sangetsusei__Eastern_and_Little_Nature_Deity"
+      }
+    ],
+    "title": "Kirisame, Marisa"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd822b76ed811ece8a287"
+    },
+    "mal_id": 135406,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/374588.jpg?s=ea135d534a9efc90334f101082dae8a4",
+    "anime": [
+      {
+        "mal_id": 37027,
+        "name": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+        "url": "https://myanimelist.net/anime/37027/Love_Live_Sunshine_The_School_Idol_Movie__Over_the_Rainbow"
+      },
+      {
+        "mal_id": 40246,
+        "name": "Love Live! School Idol Festival All Stars",
+        "url": "https://myanimelist.net/anime/40246/Love_Live_School_Idol_Festival_All_Stars"
+      },
+      {
+        "mal_id": 35006,
+        "name": "Happy Party Train",
+        "url": "https://myanimelist.net/anime/35006/Happy_Party_Train"
+      },
+      {
+        "mal_id": 41202,
+        "name": "Kokoro Magic \"A to Z\"",
+        "url": "https://myanimelist.net/anime/41202/Kokoro_Magic_A_to_Z"
+      },
+      {
+        "mal_id": 47635,
+        "name": "Perfect Sekai",
+        "url": "https://myanimelist.net/anime/47635/Perfect_Sekai"
+      },
+      {
+        "mal_id": 49880,
+        "name": "KU-RU-KU-RU Cruller!",
+        "url": "https://myanimelist.net/anime/49880/KU-RU-KU-RU_Cruller"
+      },
+      {
+        "mal_id": 32526,
+        "name": "Love Live! Sunshine!!",
+        "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+      },
+      {
+        "mal_id": 31780,
+        "name": "Kimi no Kokoro wa Kagayaiteru kai?",
+        "url": "https://myanimelist.net/anime/31780/Kimi_no_Kokoro_wa_Kagayaiteru_kai"
+      },
+      {
+        "mal_id": 34973,
+        "name": "Love Live! Sunshine!! 2nd Season",
+        "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season"
+      },
+      {
+        "mal_id": 32953,
+        "name": "Koi ni Naritai Aquarium",
+        "url": "https://myanimelist.net/anime/32953/Koi_ni_Naritai_Aquarium"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 130410,
+        "name": "Love Live! Sunshine!! Comic Anthology Sweet Lily",
+        "url": "https://myanimelist.net/manga/130410/Love_Live_Sunshine_Comic_Anthology_Sweet_Lily"
+      },
+      {
+        "mal_id": 130411,
+        "name": "Love Live! Sunshine!! Comic Anthology: Nakane Nata 4-koma Gekijou",
+        "url": "https://myanimelist.net/manga/130411/Love_Live_Sunshine_Comic_Anthology__Nakane_Nata_4-koma_Gekijou"
+      },
+      {
+        "mal_id": 126918,
+        "name": "Love Live! Sunshine!!: School Idol Diary",
+        "url": "https://myanimelist.net/manga/126918/Love_Live_Sunshine__School_Idol_Diary"
+      },
+      {
+        "mal_id": 126919,
+        "name": "Love Live! Sunshine!!: Maru no Yonkoma",
+        "url": "https://myanimelist.net/manga/126919/Love_Live_Sunshine__Maru_no_Yonkoma"
+      },
+      {
+        "mal_id": 115665,
+        "name": "Love Live! Sunshine!! AZALEA Comic Anthology",
+        "url": "https://myanimelist.net/manga/115665/Love_Live_Sunshine_AZALEA_Comic_Anthology"
+      },
+      {
+        "mal_id": 105573,
+        "name": "Love Live! Sunshine!! School Idol Diary",
+        "url": "https://myanimelist.net/manga/105573/Love_Live_Sunshine_School_Idol_Diary"
+      },
+      {
+        "mal_id": 99529,
+        "name": "Love Live! Sunshine!!",
+        "url": "https://myanimelist.net/manga/99529/Love_Live_Sunshine"
+      }
+    ],
+    "title": "Kurosawa, Dia"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd83bb76ed811ece8a288"
+    },
+    "mal_id": 103759,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276470.jpg?s=976c049f6f915d014bb61fcece307c7d",
+    "anime": [
+      {
+        "mal_id": 31418,
+        "name": "KanColle Movie",
+        "url": "https://myanimelist.net/anime/31418/KanColle_Movie"
+      },
+      {
+        "mal_id": 21511,
+        "name": "Kantai Collection: KanColle",
+        "url": "https://myanimelist.net/anime/21511/Kantai_Collection__KanColle"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 63169,
+        "name": "Kantai Collection 4-koma Comic: Fubuki, Ganbarimasu!",
+        "url": "https://myanimelist.net/manga/63169/Kantai_Collection_4-koma_Comic__Fubuki_Ganbarimasu"
+      }
+    ],
+    "title": "Fubuki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd83cb76ed811ece8a289"
+    },
+    "mal_id": 176723,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409644.jpg?s=98a01fa5f2b559f2cb466e5908bce1ce",
+    "anime": [
+      {
+        "mal_id": 38328,
+        "name": "Azur Lane",
+        "url": "https://myanimelist.net/anime/38328/Azur_Lane"
+      }
+    ],
+    "manga": [],
+    "title": "Fubuki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd853b76ed811ece8a28a"
+    },
+    "mal_id": 135798,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/464544.jpg?s=36de3d761e98e053cfacf49f256198c9",
+    "anime": [
+      {
+        "mal_id": 40956,
+        "name": "Enen no Shouboutai: Ni no Shou",
+        "url": "https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou"
+      },
+      {
+        "mal_id": 38671,
+        "name": "Enen no Shouboutai",
+        "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 91037,
+        "name": "Enen no Shouboutai",
+        "url": "https://myanimelist.net/manga/91037/Enen_no_Shouboutai"
+      }
+    ],
+    "title": "Kotatsu, Tamaki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd864b76ed811ece8a28b"
+    },
+    "mal_id": 160388,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/371292.jpg?s=546d510e756bfb2271bb092d7f42d3a9",
+    "anime": [
+      {
+        "mal_id": 35847,
+        "name": "SSSS.Gridman",
+        "url": "https://myanimelist.net/anime/35847/SSSSGridman"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 130491,
+        "name": "SSSS.Gridman: Shinseiki Chuugakusei no Shitsuji Café",
+        "url": "https://myanimelist.net/manga/130491/SSSSGridman__Shinseiki_Chuugakusei_no_Shitsuji_Café"
+      },
+      {
+        "mal_id": 123613,
+        "name": "SSSS.Gridman",
+        "url": "https://myanimelist.net/manga/123613/SSSSGridman"
+      }
+    ],
+    "title": "Takarada, Rikka"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd877b76ed811ece8a28c"
+    },
+    "mal_id": 127643,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/321412.jpg?s=71c8572792c63850abbeb85b2ff55bb2",
+    "anime": [
+      {
+        "mal_id": 35466,
+        "name": "ReLIFE: Kanketsu-hen",
+        "url": "https://myanimelist.net/anime/35466/ReLIFE__Kanketsu-hen"
+      },
+      {
+        "mal_id": 30015,
+        "name": "ReLIFE",
+        "url": "https://myanimelist.net/anime/30015/ReLIFE"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 78523,
+        "name": "ReLIFE",
+        "url": "https://myanimelist.net/manga/78523/ReLIFE"
+      }
+    ],
+    "title": "Hishiro, Chizuru"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd881b76ed811ece8a28d"
+    },
+    "mal_id": 11919,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/472323.jpg?s=1582deebc2cd09654ce11a32c667e223",
+    "anime": [
+      {
+        "mal_id": 3588,
+        "name": "Soul Eater",
+        "url": "https://myanimelist.net/anime/3588/Soul_Eater"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 908,
+        "name": "Soul Eater",
+        "url": "https://myanimelist.net/manga/908/Soul_Eater"
+      }
+    ],
+    "title": "Crona"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd893b76ed811ece8a28e"
+    },
+    "mal_id": 119413,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/467162.jpg?s=ba18c25d91c8577d298979b1b7839ad2",
+    "anime": [
+      {
+        "mal_id": 38939,
+        "name": "Kakegurui Picture Drama",
+        "url": "https://myanimelist.net/anime/38939/Kakegurui_Picture_Drama"
+      },
+      {
+        "mal_id": 37086,
+        "name": "Kakegurui××",
+        "url": "https://myanimelist.net/anime/37086/Kakegurui××"
+      },
+      {
+        "mal_id": 34933,
+        "name": "Kakegurui",
+        "url": "https://myanimelist.net/anime/34933/Kakegurui"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 73603,
+        "name": "Kakegurui",
+        "url": "https://myanimelist.net/manga/73603/Kakegurui"
+      },
+      {
+        "mal_id": 103179,
+        "name": "Kakegurui (Kari)",
+        "url": "https://myanimelist.net/manga/103179/Kakegurui_Kari"
+      }
+    ],
+    "title": "Jabami, Yumeko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd8f7b76ed811ece8a28f"
+    },
+    "mal_id": 120021,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/354300.jpg?s=8b5851ecce0482ae1cbe9aeadcdfc321",
+    "anime": [
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 31096,
+        "name": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "url": "https://myanimelist.net/anime/31096/Hibike_Euphonium__Suisougaku-bu_no_Nichijou"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31665,
+        "name": "Hibike! Euphonium: Kakedasu Monaka",
+        "url": "https://myanimelist.net/anime/31665/Hibike_Euphonium__Kakedasu_Monaka"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 96125,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+        "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+      },
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Katou, Hazuki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd901b76ed811ece8a290"
+    },
+    "mal_id": 120023,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/354301.jpg?s=8b60c9a940b03a723452502e29b7d61c",
+    "anime": [
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 31096,
+        "name": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "url": "https://myanimelist.net/anime/31096/Hibike_Euphonium__Suisougaku-bu_no_Nichijou"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31665,
+        "name": "Hibike! Euphonium: Kakedasu Monaka",
+        "url": "https://myanimelist.net/anime/31665/Hibike_Euphonium__Kakedasu_Monaka"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 96125,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+        "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+      },
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Kawashima, Sapphire"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd929b76ed811ece8a291"
+    },
+    "mal_id": 131071,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/318491.jpg?s=52039be137e62280693fb1c6c5ab162a",
+    "anime": [
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 96125,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+        "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+      }
+    ],
+    "title": "Yoroizuka, Mizore"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd944b76ed811ece8a292"
+    },
+    "mal_id": 127235,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/282015.jpg?s=218c7cfc62a17fa2331c0614c635595a",
+    "anime": [
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 31665,
+        "name": "Hibike! Euphonium: Kakedasu Monaka",
+        "url": "https://myanimelist.net/anime/31665/Hibike_Euphonium__Kakedasu_Monaka"
+      },
+      {
+        "mal_id": 31096,
+        "name": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "url": "https://myanimelist.net/anime/31096/Hibike_Euphonium__Suisougaku-bu_no_Nichijou"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Nakagawa, Natsuki"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd95db76ed811ece8a293"
+    },
+    "mal_id": 141419,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/316295.jpg?s=4ba58d093a4c41d5858491a62d9cf242",
+    "anime": [
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 96125,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+        "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+      }
+    ],
+    "title": "Kasaki, Nozomi"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd966b76ed811ece8a294"
+    },
+    "mal_id": 127237,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/354303.jpg?s=6eb44fad044fb4ea2b245859dc0857da",
+    "anime": [
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35677,
+        "name": "Liz to Aoi Tori",
+        "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Yoshikawa, Yuuko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd975b76ed811ece8a295"
+    },
+    "mal_id": 124463,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/284932.jpg?s=3c8b8681fe8d964778b3f4c849c88a22",
+    "anime": [
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      }
+    ],
+    "title": "Nakaseko, Kaori"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd987b76ed811ece8a296"
+    },
+    "mal_id": 124462,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354302.jpg?s=d9d3b334e8bcb28148cbbb09e79a82d7",
+    "anime": [
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      },
+      {
+        "mal_id": 37577,
+        "name": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "url": "https://myanimelist.net/anime/37577/Hibike_Euphonium_Movie__Photo_Session_e_Youkoso"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 87640,
+        "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/manga/87640/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      }
+    ],
+    "title": "Ogasawara, Haruka"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd991b76ed811ece8a297"
+    },
+    "mal_id": 127236,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/381500.jpg?s=d3b0d64ab3da555c68fb2589515003ed",
+    "anime": [
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Saitou, Aoi"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd998b76ed811ece8a298"
+    },
+    "mal_id": 127184,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/284935.jpg?s=9016a7ac7012a6d76a7a11d2ecd8dd19",
+    "anime": [
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 35082,
+        "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+        "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+      }
+    ],
+    "manga": [],
+    "title": "Oumae, Mamiko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd9a9b76ed811ece8a299"
+    },
+    "mal_id": 127185,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/391724.jpg?s=3330dc67408d210cd41462676f33e208",
+    "anime": [
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      }
+    ],
+    "manga": [],
+    "title": "Oumae, Akiko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd9b3b76ed811ece8a29a"
+    },
+    "mal_id": 127187,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/314378.jpg?s=b4a8312360496fe9ee40799a89af8526",
+    "anime": [
+      {
+        "mal_id": 31989,
+        "name": "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso",
+        "url": "https://myanimelist.net/anime/31989/Hibike_Euphonium_Movie_1__Kitauji_Koukou_Suisougaku-bu_e_Youkoso"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      }
+    ],
+    "manga": [],
+    "title": "Matsumoto, Michie"
+  },
+  {
+    "_id": {
+      "$oid": "62cbd9d5b76ed811ece8a29b"
+    },
+    "mal_id": 127183,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/354292.jpg?s=d9269196aa9fe2a173b00475f84025e7",
+    "anime": [
+      {
+        "mal_id": 27989,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+      },
+      {
+        "mal_id": 31988,
+        "name": "Hibike! Euphonium 2",
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+      },
+      {
+        "mal_id": 34204,
+        "name": "Hibike! Euphonium 2 Specials",
+        "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+      },
+      {
+        "mal_id": 35678,
+        "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 113830,
+        "name": "Hibike! Euphonium",
+        "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+      }
+    ],
+    "title": "Nagase, Riko"
+  },
+  {
+    "_id": {
+      "$oid": "62cbda07b76ed811ece8a29c"
+    },
+    "mal_id": 194469,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/437015.jpg?s=86ed418d0031e4a16b09a1f2506e943f",
+    "anime": [
+      {
+        "mal_id": 49470,
+        "name": "Mamahaha no Tsurego ga Motokano datta",
+        "url": "https://myanimelist.net/anime/49470/Mamahaha_no_Tsurego_ga_Motokano_datta"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 132874,
+        "name": "Mamahaha no Tsurego ga Motokano datta",
+        "url": "https://myanimelist.net/manga/132874/Mamahaha_no_Tsurego_ga_Motokano_datta"
+      },
+      {
+        "mal_id": 122649,
+        "name": "Mamahaha no Tsurego ga Motokano datta",
+        "url": "https://myanimelist.net/manga/122649/Mamahaha_no_Tsurego_ga_Motokano_datta"
+      }
+    ],
+    "title": "Irido, Yume"
   }
 ]
