@@ -55,15 +55,15 @@
   },
   "mal_id": 118737,
   "title": "Emilia",
-  "image_url": "https://cdn.myanimelist.net/images/characters/10/268173.jpg?s=1b8adab470e1f86a072f90ccfa3f4227",
+  "image_url": "https://cdn.myanimelist.net/images/characters/7/437435.jpg",
   "anime": {
-    "mal_id": 31240,
     "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/79410.jpg?s=88f029bf241fe102d4d75bc77cecba9b"
+    "mal_id": 31240,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg?s=40043c72ec5dc9e5ec4448258fa7da5c"
   },
   "manga": {
-    "mal_id": 74695,
     "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen",
+    "mal_id": 74695,
     "image_url": "https://cdn.myanimelist.net/images/manga/3/188949.jpg?s=6c77672ac63050fb27a65e9a54d62df1"
   }
 },{
@@ -2623,20 +2623,16 @@
   },
   "mal_id": 116275,
   "title": "Albedo",
-  "image_url": "https://cdn.myanimelist.net/images/characters/5/288167.jpg?s=d5f7679068dd426ac22ef7954fa170b3",
+  "image_url": "https://cdn.myanimelist.net/images/characters/12/508463.jpg",
   "anime": {
-    "mal_id": 29803,
     "name": "Overlord",
-    "url": "https://myanimelist.net/anime/29803/Overlord",
-    "image_url": "https://cdn.myanimelist.net/images/anime/7/88019.jpg?s=5a069ff3bdeebefc62a334e9a3a41c18",
-    "role": "Main"
+    "mal_id": 29803,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/88019.jpg?s=5a069ff3bdeebefc62a334e9a3a41c18"
   },
   "manga": {
-    "mal_id": 81667,
     "name": "Overlord",
-    "url": "https://myanimelist.net/manga/81667/Overlord",
-    "image_url": "https://cdn.myanimelist.net/images/manga/3/161407.jpg?s=88c791130b779776693dff85be0cf6ae",
-    "role": "Main"
+    "mal_id": 81667,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/161407.jpg?s=88c791130b779776693dff85be0cf6ae"
   }
 },{
   "_id": {
@@ -4943,20 +4939,16 @@
   },
   "mal_id": 7,
   "title": "Inoue, Orihime",
-  "image_url": "https://cdn.myanimelist.net/images/characters/12/97695.jpg?s=0cd7d7ef702e936e1e282407866a49cf",
+  "image_url": "https://cdn.myanimelist.net/images/characters/9/505076.jpg",
   "anime": {
-    "mal_id": 269,
     "name": "Bleach",
-    "url": "https://myanimelist.net/anime/269/Bleach",
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=3245fb6e9f33ccf84da2cdf2287af93e",
-    "role": "Main"
+    "mal_id": 269,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=3245fb6e9f33ccf84da2cdf2287af93e"
   },
   "manga": {
-    "mal_id": 12,
     "name": "Bleach",
-    "url": "https://myanimelist.net/manga/12/Bleach",
-    "image_url": "https://cdn.myanimelist.net/images/manga/2/180089.jpg?s=50907b8ecffed6df0300df28083bf0f4",
-    "role": "Main"
+    "mal_id": 12,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/180031.jpg?s=83c5a832856955933690869c9ceaf5be"
   }
 },{
   "_id": {
@@ -5657,20 +5649,16 @@
   },
   "mal_id": 64847,
   "title": "Midorikawa, Hana",
-  "image_url": "https://cdn.myanimelist.net/images/characters/13/287340.jpg?s=f41257462e0aca69bccd766437dda5e0",
+  "image_url": "https://cdn.myanimelist.net/images/characters/2/508311.jpg",
   "anime": {
-    "mal_id": 30240,
     "name": "Prison School",
-    "url": "https://myanimelist.net/anime/30240/Prison_School",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg?s=646270fd2106bcb1f2310d88e5d5c302",
-    "role": "Supporting"
+    "mal_id": 30240,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg?s=646270fd2106bcb1f2310d88e5d5c302"
   },
   "manga": {
-    "mal_id": 25297,
     "name": "Prison School",
-    "url": "https://myanimelist.net/manga/25297/Prison_School",
-    "image_url": "https://cdn.myanimelist.net/images/manga/2/102683.jpg?s=68359ef217b8d28754c90291120151a9",
-    "role": "Supporting"
+    "mal_id": 25297,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/270150.jpg?s=e5687913cd2ffb1282144498d1ce25a3"
   }
 },{
   "_id": {
@@ -14555,7 +14543,7 @@
     "$oid": "62cbd853b76ed811ece8a28a"
   },
   "mal_id": 135798,
-  "image_url": "https://cdn.myanimelist.net/images/characters/13/464544.jpg?s=36de3d761e98e053cfacf49f256198c9",
+  "image_url": "https://cdn.myanimelist.net/images/characters/10/496649.jpg",
   "anime": {
     "name": "Enen no Shouboutai",
     "mal_id": 38671,
@@ -16520,5 +16508,730 @@
     "name": "K-On!!",
     "mal_id": 7791,
     "image_url": "https://cdn.myanimelist.net/images/anime/12/76121.jpg?s=af642ec278f094ba369093499bfbacce"
+  }
+},{
+  "_id": {
+    "$oid": "6458938b96a3ca5e8494a196"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/6/496453.jpg",
+  "mal_id": 188037,
+  "title": "Ai Hoshino",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "6458939696a3ca5e8494a197"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/6/503733.jpg",
+  "mal_id": 188038,
+  "title": "Kana Arima",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "645893a796a3ca5e8494a198"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/5/496454.jpg",
+  "mal_id": 186921,
+  "title": "Ruby Hoshino",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "645893ae96a3ca5e8494a199"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/2/507018.jpg",
+  "mal_id": 195178,
+  "title": "Akane Kurokawa",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "645893b796a3ca5e8494a19a"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/507015.jpg",
+  "mal_id": 199940,
+  "title": "Mem-Cho",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "645893c596a3ca5e8494a19b"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/9/508842.jpg",
+  "mal_id": 189839,
+  "title": "Miyako Saitou",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "645893d996a3ca5e8494a19c"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/7/507961.jpg",
+  "mal_id": 227225,
+  "title": "Sarina Tendouji",
+  "manga": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 126146,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/233991.jpg?s=2f0cadcb47d203b1398cf40b936e2123"
+  },
+  "anime": {
+    "name": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg?s=905f8eff4506305df86abafce33fa34c"
+  }
+},{
+  "_id": {
+    "$oid": "6458945796a3ca5e8494a19d"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/9/389706.jpg",
+  "mal_id": 153845,
+  "title": "Yuzuriha Ogawa",
+  "manga": {
+    "name": "Dr. Stone",
+    "mal_id": 103897,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/197883.jpg?s=8bf70fa8138d0aff973b084c8bdfbf4c"
+  },
+  "anime": {
+    "name": "Dr. Stone",
+    "mal_id": 38691,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg?s=4bcccd50afe2b14193c594a4a1c81edf"
+  }
+},{
+  "_id": {
+    "$oid": "6458945a96a3ca5e8494a19e"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/10/454233.jpg",
+  "mal_id": 200611,
+  "title": "Maimai Yuzuriha",
+  "anime": {
+    "name": "Zombieland Saga Revenge",
+    "mal_id": 40174,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1118/115156.jpg?s=746fb49e8b98ef20c2f658f2d4c32870"
+  }
+},{
+  "_id": {
+    "$oid": "6458946996a3ca5e8494a19f"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/432629.jpg",
+  "mal_id": 192616,
+  "title": "Kohaku",
+  "manga": {
+    "name": "Iken Senki Völundio",
+    "mal_id": 130357,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/241050.jpg?s=406c9c0fdd400696998e027f7cdf46f6"
+  }
+},{
+  "_id": {
+    "$oid": "6458946f96a3ca5e8494a1a0"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/381554.jpg",
+  "mal_id": 160191,
+  "title": "Kohaku Tsukishiro",
+  "anime": {
+    "name": "Irozuku Sekai no Ashita kara",
+    "mal_id": 37497,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1424/93855.jpg?s=9d87408262918bc1c12e4aab8487d99f"
+  }
+},{
+  "_id": {
+    "$oid": "6458947296a3ca5e8494a1a1"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/274191.jpg",
+  "mal_id": 2217,
+  "title": "Kohaku",
+  "manga": {
+    "name": "Shingetsutan Tsukihime",
+    "mal_id": 705,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/253328.jpg?s=fde5f1847e8529bfce46b6032eac909b"
+  },
+  "anime": {
+    "name": "Shingetsutan Tsukihime",
+    "mal_id": 169,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=44315ff60ae68a4fbc404543ed475421"
+  }
+},{
+  "_id": {
+    "$oid": "6458948f96a3ca5e8494a1a2"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/16/509649.jpg",
+  "mal_id": 182108,
+  "title": "Mitsumi Iwakura",
+  "manga": {
+    "name": "Skip to Loafer",
+    "mal_id": 118289,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/220669.jpg?s=13e364cc46510eb025d4f9a90f0de622"
+  },
+  "anime": {
+    "name": "Skip to Loafer",
+    "mal_id": 50416,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg?s=22d85e36db4b7b45a3fbc1ef7ee29200"
+  }
+},{
+  "_id": {
+    "$oid": "6458949696a3ca5e8494a1a3"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/6/509651.jpg",
+  "mal_id": 200851,
+  "title": "Yuzuki Murashige",
+  "manga": {
+    "name": "Skip to Loafer",
+    "mal_id": 118289,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/220669.jpg?s=13e364cc46510eb025d4f9a90f0de622"
+  },
+  "anime": {
+    "name": "Skip to Loafer",
+    "mal_id": 50416,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg?s=22d85e36db4b7b45a3fbc1ef7ee29200"
+  }
+},{
+  "_id": {
+    "$oid": "6458949f96a3ca5e8494a1a4"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/16/501152.jpg",
+  "mal_id": 200850,
+  "title": "Mika Egashira",
+  "manga": {
+    "name": "Skip to Loafer",
+    "mal_id": 118289,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/220669.jpg?s=13e364cc46510eb025d4f9a90f0de622"
+  },
+  "anime": {
+    "name": "Skip to Loafer",
+    "mal_id": 50416,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg?s=22d85e36db4b7b45a3fbc1ef7ee29200"
+  }
+},{
+  "_id": {
+    "$oid": "645894a996a3ca5e8494a1a5"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/463449.jpg",
+  "mal_id": 205573,
+  "title": "Makoto",
+  "anime": {
+    "name": "Princess Connect! Re:Dive Season 2",
+    "mal_id": 42670,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1906/117145.jpg?s=7e35fed6d4b83efbe452868b477af7c1"
+  }
+},{
+  "_id": {
+    "$oid": "645894ab96a3ca5e8494a1a6"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/4/465668.jpg",
+  "mal_id": 206513,
+  "title": "Makoto",
+  "anime": {
+    "name": "Bubble",
+    "mal_id": 50549,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1011/121152.jpg?s=1c4cecf01eda04fab8570c57be420efd"
+  }
+},{
+  "_id": {
+    "$oid": "645894b796a3ca5e8494a1a7"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/509650.jpg",
+  "mal_id": 200852,
+  "title": "Makoto Kurume",
+  "manga": {
+    "name": "Skip to Loafer",
+    "mal_id": 118289,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/220669.jpg?s=13e364cc46510eb025d4f9a90f0de622"
+  },
+  "anime": {
+    "name": "Skip to Loafer",
+    "mal_id": 50416,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg?s=22d85e36db4b7b45a3fbc1ef7ee29200"
+  }
+},{
+  "_id": {
+    "$oid": "645894cc96a3ca5e8494a1a8"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/7/278907.jpg",
+  "mal_id": 126562,
+  "title": "Tokiko Iwashimizu",
+  "manga": {
+    "name": "Saimin Seikatsu: Kousoku Dakara Shikatanai!?",
+    "mal_id": 68517,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/172926.jpg?s=0e74877d0926b1337a11b8e22b9aba77"
+  }
+},{
+  "_id": {
+    "$oid": "645894cf96a3ca5e8494a1a9"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/9/466437.jpg",
+  "mal_id": 175498,
+  "title": "Tokiko Hishigata",
+  "manga": {
+    "name": "Summertime Render",
+    "mal_id": 110031,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/261167.jpg?s=f58cd3825e90af9fec0dc510e6e912a8"
+  },
+  "anime": {
+    "name": "Summertime Render",
+    "mal_id": 47194,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg?s=21080674435cf92bda8c2a1cbd0e0e72"
+  }
+},{
+  "_id": {
+    "$oid": "645894d196a3ca5e8494a1aa"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/10/419654.jpg",
+  "mal_id": 186970,
+  "title": "Tokiko Narukami",
+  "anime": {
+    "name": "Kamisama ni Natta Hi",
+    "mal_id": 41930,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg?s=5e5d61c0269124e98d9299741cbf17d3"
+  }
+},{
+  "_id": {
+    "$oid": "645894fb96a3ca5e8494a1ab"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/131459.jpg",
+  "mal_id": 42499,
+  "title": "Tokiko",
+  "manga": {
+    "name": "Touhou Kourindou: Curiosities of Lotus Asia.",
+    "mal_id": 14466,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/179935.jpg?s=faab03c51127e12c70d17a8ca2d32857"
+  }
+},{
+  "_id": {
+    "$oid": "6458950796a3ca5e8494a1ad"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/3/507069.jpg",
+  "mal_id": 200855,
+  "title": "Tokiko Takamine",
+  "manga": {
+    "name": "Skip to Loafer",
+    "mal_id": 118289,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/220669.jpg?s=13e364cc46510eb025d4f9a90f0de622"
+  },
+  "anime": {
+    "name": "Skip to Loafer",
+    "mal_id": 50416,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg?s=22d85e36db4b7b45a3fbc1ef7ee29200"
+  }
+},{
+  "_id": {
+    "$oid": "6458959296a3ca5e8494a1ae"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/7/453511.jpg",
+  "mal_id": 187718,
+  "title": "Charlotte",
+  "manga": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 112589,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/209955.jpg?s=7a92e1a3bbfbe501e1f204e1592fc135"
+  },
+  "anime": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 41389,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg?s=18046a85f1a7801738b212dc82e9118c"
+  }
+},{
+  "_id": {
+    "$oid": "6458959b96a3ca5e8494a1af"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/8/111972.jpg",
+  "mal_id": 40842,
+  "title": "Charlotte",
+  "manga": {
+    "name": "Mahou Shoujo Oriko★Magica",
+    "mal_id": 24456,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/99257.jpg?s=031d403b946f288d32148ff694a38585"
+  },
+  "anime": {
+    "name": "Mahou Shoujo Madoka★Magica",
+    "mal_id": 9756,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/55225.jpg?s=1219949696611fb4daf9676b888c1110"
+  }
+},{
+  "_id": {
+    "$oid": "645895b596a3ca5e8494a1b0"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/2/313058.jpg",
+  "mal_id": 144884,
+  "title": "Charlotte"
+},{
+  "_id": {
+    "$oid": "645895bd96a3ca5e8494a1b1"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/2/396049.jpg",
+  "mal_id": 176500,
+  "title": "Charlotte",
+  "manga": {
+    "name": "Fire Emblem Heroes: Eiyuu-tachi no Nichijou",
+    "mal_id": 121523,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/223261.jpg?s=7b84a49b75cfb1cec864daeb3de44fec"
+  }
+},{
+  "_id": {
+    "$oid": "645895c196a3ca5e8494a1b2"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/4/421666.jpg",
+  "mal_id": 179381,
+  "title": "Charlotte",
+  "anime": {
+    "name": "Isekai Cheat Magician",
+    "mal_id": 37744,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1282/102248.jpg?s=8699ce61c815985283c592d10d45b1c4"
+  }
+},{
+  "_id": {
+    "$oid": "6458960496a3ca5e8494a1b3"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/13/316790.jpg",
+  "mal_id": 144439,
+  "title": "Charlotte",
+  "manga": {
+    "name": "Watashitachi Koroshiya desu, Hontou desu, Uso ja Arimasen, Shinjite Kudasai.",
+    "mal_id": 99687,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/181669.jpg?s=19a21cc4639973698bc4ca954286a9a1"
+  }
+},{
+  "_id": {
+    "$oid": "6458960796a3ca5e8494a1b4"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/10/329711.jpg",
+  "mal_id": 150944,
+  "title": "Charlotte"
+},{
+  "_id": {
+    "$oid": "6458960e96a3ca5e8494a1b5"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/157245.jpg",
+  "mal_id": 58247,
+  "title": "Charlotte",
+  "anime": {
+    "name": "Kaleido Star",
+    "mal_id": 427,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1230/98847.jpg?s=0ab442e6c3fa3a1724d57be2a196da9d"
+  }
+},{
+  "_id": {
+    "$oid": "6458961296a3ca5e8494a1b6"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/15/477205.jpg",
+  "mal_id": 212365,
+  "title": "Charlotte",
+  "anime": {
+    "name": "Black★★Rock Shooter: Dawn Fall",
+    "mal_id": 49831,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1549/121866.jpg?s=ffadccf37d89a287b057006829164883"
+  }
+},{
+  "_id": {
+    "$oid": "6458962596a3ca5e8494a1b7"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/14/509012.jpg",
+  "mal_id": 179345,
+  "title": "Naoko Yanagi",
+  "manga": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 112589,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/209955.jpg?s=7a92e1a3bbfbe501e1f204e1592fc135"
+  },
+  "anime": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 41389,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg?s=18046a85f1a7801738b212dc82e9118c"
+  }
+},{
+  "_id": {
+    "$oid": "6458962896a3ca5e8494a1b8"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/13/450389.jpg",
+  "mal_id": 17582,
+  "title": "Naoko",
+  "anime": {
+    "name": "Eve no Jikan",
+    "mal_id": 3167,
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/19480.jpg?s=19d23f1a24152d24a7b955d8e90292dc"
+  }
+},{
+  "_id": {
+    "$oid": "6458965096a3ca5e8494a1b9"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/2/136079.jpg",
+  "mal_id": 29465,
+  "title": "Aurora",
+  "manga": {
+    "name": "Kilala☆Princess",
+    "mal_id": 400,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/190870.jpg?s=1c34eb73ed9df22e8e70842ffff6ee61"
+  }
+},{
+  "_id": {
+    "$oid": "6458965696a3ca5e8494a1ba"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/5/428785.jpg",
+  "mal_id": 179349,
+  "title": "Aurora",
+  "manga": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 112589,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/209955.jpg?s=7a92e1a3bbfbe501e1f204e1592fc135"
+  },
+  "anime": {
+    "name": "Tonikaku Kawaii",
+    "mal_id": 41389,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg?s=18046a85f1a7801738b212dc82e9118c"
+  }
+},{
+  "_id": {
+    "$oid": "645896a596a3ca5e8494a1bb"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/367788.jpg",
+  "mal_id": 126233,
+  "title": "Aurora Edith Juutilainen"
+},{
+  "_id": {
+    "$oid": "645896b696a3ca5e8494a1bc"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/433486.jpg",
+  "mal_id": 193055,
+  "title": "Aurora Nemu Rhys Kaymin",
+  "manga": {
+    "name": "Maoujou de Oyasumi",
+    "mal_id": 98639,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/183044.jpg?s=00053ec0a0bfd2f5cf4144ea20a3c71d"
+  },
+  "anime": {
+    "name": "Maou-jou de Oyasumi",
+    "mal_id": 40397,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg?s=c1f2f390dbd400c3e6e5975b00aa0ffc"
+  }
+},{
+  "_id": {
+    "$oid": "6458970696a3ca5e8494a1bd"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/13/502335.jpg",
+  "mal_id": 217549,
+  "title": "Kiruko",
+  "manga": {
+    "name": "Tengoku Daimakyou",
+    "mal_id": 111745,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/210308.jpg?s=0f00e8055d33c1692a8f3f669cda8bb8"
+  },
+  "anime": {
+    "name": "Tengoku Daimakyou",
+    "mal_id": 53393,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg?s=110dd5672f6101c7c272081f98ccb008"
+  }
+},{
+  "_id": {
+    "$oid": "6458972d96a3ca5e8494a1be"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/9/110008.jpg",
+  "mal_id": 36946,
+  "title": "Iroha Tsuchiura",
+  "manga": {
+    "name": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+    "mal_id": 11793,
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/158615.jpg?s=eee57be12f3c0f051ad20bc3f7a95796"
+  },
+  "anime": {
+    "name": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+    "mal_id": 9587,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/75499.jpg?s=7ab22c270c40124078f48e3040329286"
+  }
+},{
+  "_id": {
+    "$oid": "6458976896a3ca5e8494a1bf"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/4/333341.jpg",
+  "mal_id": 152279,
+  "title": "Aoi Iroha"
+},{
+  "_id": {
+    "$oid": "6458978196a3ca5e8494a1c0"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/192687.jpg",
+  "mal_id": 68501,
+  "title": "Akane Isshiki",
+  "manga": {
+    "name": "Vividred Operation",
+    "mal_id": 48687,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/117147.jpg?s=7c09c0a845b7f26bea1d7b5c35966b56"
+  },
+  "anime": {
+    "name": "Vividred Operation",
+    "mal_id": 14283,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/45935.jpg?s=46c22a4aefd5808e9e484e85751caa76"
+  }
+},{
+  "_id": {
+    "$oid": "645897c996a3ca5e8494a1c1"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/5/506680.jpg",
+  "mal_id": 203276,
+  "title": "Irys",
+  "anime": {
+    "name": "Holo no Graffiti",
+    "mal_id": 44042,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg?s=ac0988f68460d39115c9ce436daa7674"
+  }
+},{
+  "_id": {
+    "$oid": "645897ed96a3ca5e8494a1c2"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/476831.jpg",
+  "mal_id": 212195,
+  "title": "Airani Iofifteen",
+  "anime": {
+    "name": "Holo no Graffiti",
+    "mal_id": 44042,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg?s=ac0988f68460d39115c9ce436daa7674"
+  }
+},{
+  "_id": {
+    "$oid": "6458981a96a3ca5e8494a1c3"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/15/434080.jpg",
+  "mal_id": 152675,
+  "title": "Natsuki",
+  "manga": {
+    "name": "Mayoiga no Oneesan",
+    "mal_id": 105274,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/192915.jpg?s=481e52e9c396f5875889b15c4d07ec28"
+  },
+  "anime": {
+    "name": "Mayoiga no Oneesan The Animation",
+    "mal_id": 35727,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/86855.jpg?s=246e51319be84a411c2cef5b5514e7ba"
+  }
+},{
+  "_id": {
+    "$oid": "6458987f96a3ca5e8494a1c4"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/494954.jpg",
+  "mal_id": 220278,
+  "title": "Manami",
+  "manga": {
+    "name": "Fuufu Ijou, Koibito Miman.",
+    "mal_id": 115848,
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/215132.jpg?s=2973587b375f0cda28a78ad7b9263f04"
+  },
+  "anime": {
+    "name": "Fuufu Ijou, Koibito Miman.",
+    "mal_id": 50425,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1713/126442.jpg?s=b93d56eb08c4e8fed982e659a300c8a2"
+  }
+},{
+  "_id": {
+    "$oid": "645898cb96a3ca5e8494a1c5"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/15/226697.jpg",
+  "mal_id": 95647,
+  "title": "Sao",
+  "manga": {
+    "name": "Golden Time",
+    "mal_id": 36873,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/66517.jpg?s=479763bb02d3ea3bbbcdc34351a28de9"
+  },
+  "anime": {
+    "name": "Golden Time",
+    "mal_id": 17895,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=63636fa5e7b1165ff877213d2e188819"
+  }
+},{
+  "_id": {
+    "$oid": "645898d996a3ca5e8494a1c6"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/227759.jpg",
+  "mal_id": 56931,
+  "title": "Chinami Oka",
+  "manga": {
+    "name": "Golden Time",
+    "mal_id": 21485,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/179802.jpg?s=0f8362e358ce61ed81a9416a9f288e98"
+  },
+  "anime": {
+    "name": "Golden Time",
+    "mal_id": 17895,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=63636fa5e7b1165ff877213d2e188819"
+  }
+},{
+  "_id": {
+    "$oid": "6458990096a3ca5e8494a1c7"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/11/467946.jpg",
+  "mal_id": 43672,
+  "title": "Nana Hayashida",
+  "manga": {
+    "name": "Golden Time",
+    "mal_id": 21485,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/179802.jpg?s=0f8362e358ce61ed81a9416a9f288e98"
+  },
+  "anime": {
+    "name": "Golden Time",
+    "mal_id": 17895,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=63636fa5e7b1165ff877213d2e188819"
+  }
+},{
+  "_id": {
+    "$oid": "6458992696a3ca5e8494a1c8"
+  },
+  "image_url": "https://cdn.myanimelist.net/images/characters/10/223775.jpg",
+  "mal_id": 89237,
+  "title": "Nana",
+  "manga": {
+    "name": "Golden Time",
+    "mal_id": 21485,
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/179802.jpg?s=0f8362e358ce61ed81a9416a9f288e98"
+  },
+  "anime": {
+    "name": "Golden Time",
+    "mal_id": 17895,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=63636fa5e7b1165ff877213d2e188819"
   }
 }]
